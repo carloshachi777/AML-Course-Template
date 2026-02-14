@@ -15,7 +15,7 @@ Cada estudiante debe crear su propio repositorio a partir de esta plantilla y tr
 
    `AML-Final-Apellido-Nombre`
 
-Ejemplo: `AML-Final-Marino-Meghan`
+Ejemplo: `AML-Final-Marino-Duncan`
 
 ---
 
