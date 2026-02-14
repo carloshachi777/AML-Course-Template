@@ -1,8 +1,8 @@
 # Data folder
 
-Do NOT upload large datasets or sensitive/private data to GitHub.
+NO Subir large datasets or sensitive/private data to GitHub.
 
-Instead, include:
-- A link to the dataset source (Kaggle/UCI/etc.)
+En lugar, incluir:
+- A link to the dataset source.
 - Instructions to download/load the data in Colab
 - Any preprocessing notes
