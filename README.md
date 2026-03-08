@@ -1,4 +1,4 @@
-# Plantilla del Curso: Advanced Machine Learning
+# Plantilla del Curso: Deep Learning
 
 Este repositorio es una **plantilla** para el proyecto final del curso de *Advanced Machine Learning*.
 Cada estudiante debe crear su propio repositorio a partir de esta plantilla y trabajar únicamente en el notebook principal desde Google Colab.
